@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\bin\Debug\net8.0\TaskPokemon.Persistance.deps.json
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\bin\Debug\net8.0\TaskPokemon.Persistance.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\bin\Debug\net8.0\TaskPokemon.Persistance.pdb
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\TaskPokemon.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\TaskPokemon.Persistance.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\TaskPokemon.Persistance.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\TaskPokemon.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\TaskPokemon.Persistance.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\refint\TaskPokemon.Persistance.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\TaskPokemon.Persistance.pdb
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\ref\TaskPokemon.Persistance.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\bin\Debug\net8.0\TaskPokemon.Persistance.runtimeconfig.json
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\bin\Debug\net8.0\TaskPokemon.Domain.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\bin\Debug\net8.0\TaskPokemon.Domain.pdb
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\TaskPokemon.Persistance.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\TaskPoke.C4EB4289.Up2Date
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Persistance\obj\Debug\net8.0\TaskPokemon.Persistance.genruntimeconfig.cache

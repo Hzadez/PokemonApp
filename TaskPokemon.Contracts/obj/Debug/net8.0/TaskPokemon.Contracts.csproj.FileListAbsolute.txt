@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\bin\Debug\net8.0\TaskPokemon.Contracts.deps.json
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\bin\Debug\net8.0\TaskPokemon.Contracts.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\bin\Debug\net8.0\TaskPokemon.Contracts.pdb
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\TaskPokemon.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\TaskPokemon.Contracts.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\TaskPokemon.Contracts.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\TaskPokemon.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\TaskPokemon.Contracts.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\refint\TaskPokemon.Contracts.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\TaskPokemon.Contracts.pdb
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\ref\TaskPokemon.Contracts.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\bin\Debug\net8.0\TaskPokemon.Domain.dll
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\bin\Debug\net8.0\TaskPokemon.Domain.pdb
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\TaskPokemon.Contracts.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Contracts\obj\Debug\net8.0\TaskPoke.BFE1956C.Up2Date

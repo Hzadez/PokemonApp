@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TaskPokemon.Contracts.Dtos
+{
+	public record WildPokemonDto : BaseDto
+	{
+		public int PokemonId { get; set; } // ID of the Pokemon
+		public int Level { get; set; } // Level of the wild Pokemon
+		public int CurrentHP { get; set; } // Current HP of the wild Pokemon
+		public DateTime AppearedAt { get; set; } = DateTime.Now;
+		public int LocationId { get; set; } // ID of the location where the wild Pokemon appeared
+
+	}
+
+}
