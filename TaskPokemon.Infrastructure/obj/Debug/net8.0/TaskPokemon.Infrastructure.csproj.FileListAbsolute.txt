@@ -9,3 +9,15 @@ C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8
 C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\refint\TaskPokemon.Infrastructure.dll
 C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\TaskPokemon.Infrastructure.pdb
 C:\Users\user\source\repos\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\ref\TaskPokemon.Infrastructure.dll
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\bin\Debug\net8.0\TaskPokemon.Infrastructure.deps.json
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\bin\Debug\net8.0\TaskPokemon.Infrastructure.dll
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\bin\Debug\net8.0\TaskPokemon.Infrastructure.pdb
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\TaskPokemon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\TaskPokemon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\TaskPokemon.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\TaskPokemon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\TaskPokemon.Infrastructure.sourcelink.json
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\TaskPokemon.Infrastructure.dll
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\refint\TaskPokemon.Infrastructure.dll
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\TaskPokemon.Infrastructure.pdb
+C:\Users\user\Desktop\CodeAcademy\Backend\TaskPokemon\TaskPokemon.Infrastructure\obj\Debug\net8.0\ref\TaskPokemon.Infrastructure.dll

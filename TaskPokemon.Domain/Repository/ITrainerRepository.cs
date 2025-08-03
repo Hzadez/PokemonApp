@@ -9,5 +9,6 @@ namespace TaskPokemon_Domain.Repository
 {
     public interface ITrainerRepository: IGenericRepository<Trainer>
     {
+        Task<List<TrainerPokemon>> GetPokemonByTrainerIdAsync(int trainerId);
     }
 }

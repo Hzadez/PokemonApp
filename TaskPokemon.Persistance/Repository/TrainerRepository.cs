@@ -25,5 +25,10 @@ namespace TaskPokemon.Persistance.Repository
                  .ToListAsync();
             return datas;
         }
+
+        public Task<List<TrainerPokemon>> GetPokemonByTrainerIdAsync(int trainerId)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

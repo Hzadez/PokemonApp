@@ -15,9 +15,8 @@ namespace TaskPokemon.Application.Validators
             RuleFor(tp => tp.TrainerId)
                 .NotEmpty().WithMessage("Trainer ID is required.")
                 .GreaterThan(0).WithMessage("Trainer ID must be greater than 0.");
-            RuleFor(tp => tp.PokemonId)
-                .NotEmpty().WithMessage("Pokemon ID is required.")
-                .GreaterThan(0).WithMessage("Pokemon ID must be greater than 0.");
+            RuleFor(tp => tp.Pokemon)
+                .NotEmpty().WithMessage("Pokemon ID is required.");
             RuleFor(tp => tp.CaughtAt)
                 .NotEmpty().WithMessage("Caught date is required.")
                 .LessThanOrEqualTo(DateTime.Now).WithMessage("Caught date cannot be in the future.");

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6rP0rrojZU=",
+  "dgSpecHash": "VvxWSQVg1LI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TaskPokemon\\TaskPokemon.Api\\TaskPokemon.Api.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\TaskPokemon\\TaskPokemon.Api\\TaskPokemon.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

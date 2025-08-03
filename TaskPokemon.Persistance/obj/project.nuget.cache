@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNIKM4m1Qlw=",
+  "dgSpecHash": "JL9yhq/r5ko=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TaskPokemon\\TaskPokemon.Persistance\\TaskPokemon.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\TaskPokemon\\TaskPokemon.Persistance\\TaskPokemon.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

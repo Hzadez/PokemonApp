@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IiCC/rmao3c=",
+  "dgSpecHash": "YVWORZY2lCk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TaskPokemon\\TaskPokemon.Application\\TaskPokemon.Application.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CodeAcademy\\Backend\\TaskPokemon\\TaskPokemon.Application\\TaskPokemon.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
